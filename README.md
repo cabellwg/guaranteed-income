@@ -29,11 +29,11 @@ This code was never deployed; it was an intern project and the goal was to have 
 ## Important Note
 
 As with any project, there are things that I did that I could have done better. Upon completion of the project, we did a code review and professional developers were very helpful and pointed out several things that could have been improved. I have left it as-is in order to
-1. Demonstrate progress in software development ability with the [first](https://gitlab.com/cabellwg/tax-planning) and [third](https://gitlab.com/cabellwg/monte-carlo) projects and
+1. Demonstrate progress in software development ability with the [first](https://github.com/cabellwg/tax-planning) and [third](https://github.com/cabellwg/monte-carlo) projects and
 2. Accurately demonstrate my software development skills in a limited period of development time (one two-week sprint).
 
 ---
 
 &ast;_Mobile-friendliness is not perfect and disregards several best practices. But it does look decent until you get to screen sizes smaller than about 500 pixels._
 
-I hadn't done web development in almost a year and I was a little rusty. See the code for [my personal website](https://gitlab.com/cabellwg/williamcabell) for a peek at some much better front-end code.
+I hadn't done web development in almost a year and I was a little rusty. See the code for [my personal website](https://github.com/cabellwg/williamcabell) for a peek at some much better front-end code.
